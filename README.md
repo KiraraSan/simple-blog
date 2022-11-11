@@ -1,1 +1,1 @@
-# fell free to use this simple code
+# this code from and inspired by Wab Programming Unpas/Sandika Galih 
